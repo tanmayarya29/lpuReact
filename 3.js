@@ -117,3 +117,5 @@ myPromise.then(
 //eventLoops js is not multi threaded
 //nested promise
 console.log("start");
+
+//Object.prototype is the root of all objects in js
